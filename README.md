@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amizero Peace Tresor</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
-<imgs src="https://th.bing.com/th/id/R.02be8bfb780a07c3adada76bc4c6c073?rik=bDruSbmMVWMNNw&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fCoder-PNG-File.png&ehk=SJt9JjDiJv2bQKCNjbjJoHLXW2FVI9oJX%2bGIIQT%2bV40%3d&risl=&pid=ImgRaw&r=0"></img>
+<img src="https://th.bing.com/th/id/R.02be8bfb780a07c3adada76bc4c6c073?rik=bDruSbmMVWMNNw&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fCoder-PNG-File.png&ehk=SJt9JjDiJv2bQKCNjbjJoHLXW2FVI9oJX%2bGIIQT%2bV40%3d&risl=&pid=ImgRaw&r=0"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himtresor1&label=Profile%20views&color=0e75b6&style=flat" alt="himtresor1" /> </p>
 
 - 🌱 I’m currently learning **VueJs and Svelte**
